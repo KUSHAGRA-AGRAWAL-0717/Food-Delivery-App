@@ -7,7 +7,6 @@ function Footer() {
       <div className="footer" id="contact-us">
         <div className="footer-content">
           <div className="footer-content-left">
-            <img src={assets.logo2} alt="logo" width={"290px"}/>
             <p>
               Mumbai style chinese restaurant. Order food online. We only have one branch currently and deliver within the radius of 10km only.
             </p>
